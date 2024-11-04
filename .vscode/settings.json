@@ -1,0 +1,18 @@
+{
+    "security.olympix.project.includePath": "",
+    "security.olympix.project.analyzeWholeProject": true,
+    "security.olympix.project.testsPath": "",
+    "security.olympix.detectors.eventsPriceChange": true,
+    "security.olympix.detectors.unfuzzedVariables": true,
+    "security.olympix.detectors.unfuzzedLocalVariables": true,
+    "security.olympix.detectors.uninitializedStateVariable": true,
+    "security.olympix.detectors.sameNamedContracts": true,
+    "security.olympix.detectors.shadowingReservedKeyword": true,
+    "security.olympix.detectors.reentrancyEvents": true,
+    "security.olympix.detectors.noParameterValidationInConstructor": true,
+    "security.olympix.detectors.improperDiamondPattern": true,
+    "security.olympix.detectors.defaultVisibility": true,
+    "security.olympix.detectors.incompleteConstructorTests": true,
+    "security.olympix.detectors.missingEventsAssertion": true,
+    "security.olympix.detectors.missingRevertReasonTests": true
+}
