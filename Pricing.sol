@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: ISC
-pragma solidity 0.8.25;
+pragma solidity ^0.8.25;
 
 /**
  * @title Library with often used math-related helper functions related to the Anvil protocol.

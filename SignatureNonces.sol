@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: ISC
-pragma solidity 0.8.25;
+pragma solidity ^0.8.25;
 
 /**
  * @notice Builds off of "@openzeppelin/contracts/utils/Nonces.sol" by copying its code to make the nonces more useful
